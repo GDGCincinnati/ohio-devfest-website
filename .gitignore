@@ -6,3 +6,4 @@ build
 .temp/
 .firebaserc
 package-lock.json
+firebase-debug.log

@@ -7,3 +7,4 @@ build
 .firebaserc
 package-lock.json
 firebase-debug.log
+.firebase

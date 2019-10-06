@@ -92,15 +92,17 @@
     <div class="container">
       <h4 class="heading">{$ featuredPeopleTitle $}</h4> 
 
-      <div class="c4p">Ohio DevFest 2019 is no longer accepting submissions for presentations.<br/>
+      <!--<div class="c4p">Ohio DevFest 2019 is no longer accepting submissions for presentations.<br/>
         Stay tuned, we'll be announcing our speaker selection very soon!
-      </div> 
+      </div> -->
+
       <!-- <div class="c4p">Ohio DevFest 2018 is now accepting submissions for presentations!
       </div>
       <a href="https://cfp.ohiodevfest.com" class="block-link" target="_blank">
         <paper-button class="primary" raised>Submit your presentation today</paper-button>
-      </a>
-      <div class="people-wrapper">
+      </a> -->
+
+       <div class="people-wrapper">
         <template is="dom-repeat" items="[[featuredPeople]]" as="person">
           <a href$="/speakers/[[person.id]]" class="person">
             <iron-image
@@ -130,7 +132,6 @@
       </div>
     </div>
 
-    -->
 
   </template>
 

@@ -90,12 +90,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://photos.app.goo.gl/ugY5psRi3YKKwyZJ7",
+    "albumUrl": "https://photos.app.goo.gl/fwZCBAQPsgkMN7qR7",
     "photos": {
-      "big": "/images/backgrounds/OhioDevFest2018-crowd.jpg",
+      "big": "/images/backgrounds/OhioDevFest2019-keynote.jpg",
       "small": [
-        "/images/backgrounds/OhioDevFest2018-session.jpg",
-        "/images/backgrounds/OhioDevFest2018-panel.jpg"
+        "/images/backgrounds/OhioDevFest2019-banners.jpg",
+        "/images/backgrounds/OhioDevFest2019-lunch.jpg"
       ]
     }
   },
